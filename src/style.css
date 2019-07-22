@@ -1,0 +1,9 @@
+.day {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+}
+
+.day ul {
+    list-style: none;
+    margin: 3px;
+}
